@@ -1,19 +1,19 @@
 # SQL-Challenge
 Module 9 Challenge
 
-##Employee Management System
+## Employee Management System
 This Employee Management System is a database project designed to manage and store information about employees, departments, titles, salaries, and departmental roles within an organization. The system is built using SQL, providing a robust and efficient means of handling complex employee data.
 
-##Getting Started
+## Getting Started
 These instructions will guide you through setting up the project on your local machine for development and testing purposes.
 
-##Prerequisites
+## Prerequisites
 To use this project, you'll need a PostgreSQL database server. You can download and install PostgreSQL from the official website.
 
-##Schema Description
+## Schema Description
 The database schema includes the following tables:
 
-##Installing
+## Installing
 To set up your development environment, follow these steps:
 
 Clone the repository to your local machine:
